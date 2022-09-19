@@ -1,0 +1,18 @@
+package estanis.aliaga;
+
+import java.util.Scanner;
+
+public class ej11 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Dime un mes en numero: ");
+		int dni;
+		
+        String caracteres="TRWAGMYFPDXBNJZSQVHLCKE";
+        int resto = dni%23;
+	}
+
+}
