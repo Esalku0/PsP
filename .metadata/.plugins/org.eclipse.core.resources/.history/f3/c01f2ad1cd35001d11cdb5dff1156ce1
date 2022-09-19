@@ -1,0 +1,18 @@
+package estanis.aliaga;
+
+import java.util.Scanner;
+
+public class ej3 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		 Scanner sc = new Scanner(System.in);
+		 System.out.print("Dime el primer numero: ");
+		 String num1 = sc.nextLine();
+		 
+		 System.out.print("Dime el segundo numero: ");
+		 String num1 = sc.nextLine();
+	}
+
+}

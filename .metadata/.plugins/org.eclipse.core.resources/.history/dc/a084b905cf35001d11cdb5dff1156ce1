@@ -1,0 +1,16 @@
+package estanis.aliaga;
+
+import java.util.Iterator;
+
+public class ej6 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		for (Iterator iterator = collection.iterator(); iterator.hasNext();) {
+			type type = (type) iterator.next();
+			
+		}
+	}
+
+}

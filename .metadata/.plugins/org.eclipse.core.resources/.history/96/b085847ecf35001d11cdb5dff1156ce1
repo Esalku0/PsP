@@ -1,0 +1,21 @@
+package estanis.aliaga;
+
+import java.util.Iterator;
+import java.util.Scanner;
+
+public class ej6 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		int contador=0;
+		
+		for (int i = 0; i < 5; i++) {
+			System.out.println("Dime el numero " + i);
+			contador += sc.nextInt();
+		}
+		
+		System.out.prin();
+	}
+
+}
